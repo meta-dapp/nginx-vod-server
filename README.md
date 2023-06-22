@@ -1,1 +1,1 @@
-## Learn how to create on-demand video (VOD) service like Netflix with the Nginx web server and Kaltura's nginx-vod-module using Ubuntu Server 22.04 on VirtualBox
+Aprende a crear un servidor de vídeo bajo demanda (VOD) como Netflix con el servidor web Nginx y el módulo nginx-vod de Kaltura utilizando Ubuntu Server 22.04 en VirtualBox. [VER VIDEO](https://youtu.be/M0GUVBc_qTw)
