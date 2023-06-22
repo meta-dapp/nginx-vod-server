@@ -2,7 +2,7 @@
   "name": "vod-server",
   "version": "1.0.0",
   "description": "",
-  "main": "hashVod.js",
+  "main": "vod-unique-url.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
